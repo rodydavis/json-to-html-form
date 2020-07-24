@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["codemirror|lib/src/js_utils.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","html","js"],"hasMain":false}

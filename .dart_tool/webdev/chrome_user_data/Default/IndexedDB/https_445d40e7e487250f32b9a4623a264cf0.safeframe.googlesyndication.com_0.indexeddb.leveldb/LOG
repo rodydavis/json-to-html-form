@@ -1,0 +1,5 @@
+2020/07/22-10:41:07.525 14e17 Reusing MANIFEST /Users/rodydavis/Documents/ideas/json-form-json/.dart_tool/webdev/chrome_user_data/Default/IndexedDB/https_445d40e7e487250f32b9a4623a264cf0.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/22-10:41:13.168 1cd33 Level-0 table #5: started
+2020/07/22-10:41:13.188 1cd33 Level-0 table #5: 439 bytes OK
+2020/07/22-10:41:13.201 1cd33 Delete type=0 #3
+2020/07/22-10:41:13.204 1cd33 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,1 @@
+/Users/rodydavis/.pub-cache/hosted/pub.dartlang.org/typed_data-1.2.0/lib/src/typed_queue.dart

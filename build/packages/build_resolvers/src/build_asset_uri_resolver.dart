@@ -1,0 +1,1 @@
+/Users/rodydavis/.pub-cache/hosted/pub.dartlang.org/build_resolvers-1.3.10/lib/src/build_asset_uri_resolver.dart

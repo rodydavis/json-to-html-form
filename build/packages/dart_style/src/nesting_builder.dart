@@ -1,0 +1,1 @@
+/Users/rodydavis/.pub-cache/hosted/pub.dartlang.org/dart_style-1.3.6/lib/src/nesting_builder.dart

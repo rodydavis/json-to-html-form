@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["codemirror|lib/codemirror.dart","recase|lib/recase.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","html"],"hasMain":true}

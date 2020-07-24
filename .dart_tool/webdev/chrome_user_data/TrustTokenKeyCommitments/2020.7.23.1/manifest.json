@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "trustToken",
+  "version": "2020.07.23.01",
+  "imageName": "image.squash",
+  "squash": true,
+  "fsType": "squashfs",
+  "isRemovable": false
+}

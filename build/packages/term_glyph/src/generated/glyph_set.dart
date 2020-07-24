@@ -1,0 +1,1 @@
+/Users/rodydavis/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.1.0/lib/src/generated/glyph_set.dart

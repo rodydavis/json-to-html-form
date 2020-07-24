@@ -1,0 +1,1 @@
+/Users/rodydavis/.pub-cache/hosted/pub.dartlang.org/shelf-0.7.7/lib/src/middleware/add_chunked_encoding.dart

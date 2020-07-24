@@ -1,0 +1,15 @@
+2020/07/22-14:02:14.600 2e227 Reusing MANIFEST /Users/rodydavis/Documents/ideas/json-form-json/.dart_tool/webdev/chrome_user_data/Default/IndexedDB/https_www.w3schools.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/22-14:02:14.600 2e227 Recovering log #22
+2020/07/22-14:02:14.600 2e227 Reusing old log /Users/rodydavis/Documents/ideas/json-form-json/.dart_tool/webdev/chrome_user_data/Default/IndexedDB/https_www.w3schools.com_0.indexeddb.leveldb/000022.log 
+2020/07/22-14:02:16.977 2535f Level-0 table #26: started
+2020/07/22-14:02:16.984 2535f Level-0 table #26: 190 bytes OK
+2020/07/22-14:02:16.994 2535f Delete type=0 #22
+2020/07/22-14:02:16.995 2535f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/22-14:02:16.995 2535f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 9 : 1
+2020/07/22-14:02:16.996 2535f Compacting 1@1 + 1@2 files
+2020/07/22-14:02:17.004 2535f Generated table #27@1: 8 keys, 352 bytes
+2020/07/22-14:02:17.004 2535f Compacted 1@1 + 1@2 files => 352 bytes
+2020/07/22-14:02:17.014 2535f compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/22-14:02:17.014 2535f Delete type=2 #5
+2020/07/22-14:02:17.014 2535f Delete type=2 #26
+2020/07/22-14:02:17.015 2535f Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 9 : 1 .. (end); will stop at (end)

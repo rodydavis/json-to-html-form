@@ -1,0 +1,1 @@
+/Users/rodydavis/.pub-cache/hosted/pub.dartlang.org/logging-0.11.4/lib/src/log_record.dart
